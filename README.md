@@ -33,7 +33,16 @@ Don't hesitate CONTACT ME if you have any problem.
   Contact: yyichen@kth.se
   
   
-  Date:    2019-09-20
-  
-  
   Address: Kungliga Tekniska Högskolan, Stockholm, Sweden.
+  
+  
+  Author:  Zhuofan Jiang
+  
+  
+  Contact: zhuofan@kth.se
+  
+
+  Address: Kungliga Tekniska Högskolan, Stockholm, Sweden.
+
+
+  Date:    2019-09-20
