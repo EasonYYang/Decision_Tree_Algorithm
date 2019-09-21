@@ -1,3 +1,17 @@
+"""""
+Description: This is the Main function for decision tree classification algorithm.
+Uses monkdata.py, dtree.py, drawtree_qt5.py as well.
+Function: Use the Machine-Learning algorithm in dtree.py to classify the unknown data set in monkdata.py
+The file drawtree_qt5.py is used to draw the decision tree.
+
+If you have any problem, DON'T HESITATE TO CONTACT ME.
+
+Author:  Yichen(Eason) Yang
+Contact: yyichen@kth.se
+Date:    2019-09-20
+Address: Kungliga Tekniska Högskolan, Stockholm, Sweden.
+"""""
+
 import monkdata as m
 import dtree as d
 import statistics as st
